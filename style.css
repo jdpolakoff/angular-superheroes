@@ -1,0 +1,33 @@
+body {
+
+  text-align: center;
+
+}
+
+.blue {
+
+  background-color: blue;
+
+}
+
+.green {
+
+  background-color: green;
+
+}
+
+
+.superhero {
+
+  color: white;
+  font-size: 30px;
+  border-bottom: 10px solid black;
+  text-align: center;
+
+}
+
+.superhero img {
+
+  height: 200px;
+
+}
